@@ -1,3 +1,3 @@
-TO log in You require a ID and Paswoord.
+TO sign in, You require a ID and Password.
 Id- admin@gmail.com
-password- admin
+Password- admin
